@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My Kyu at Codewars:
-image:https://www.codewars.com/users/PsVanD/badges/large
+{https://www.codewars.com/users/PsVanD/badges/large.jpg}
 <!--
 **PsVanD-Tech/psvand-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
